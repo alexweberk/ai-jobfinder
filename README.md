@@ -2,7 +2,12 @@
 
 Enter your resume and a URL for a job listing page, and get the best matching job for you from that job list.
 
+The repo uses [FireCrawl](https://firecrawl.dev/) to scrape job listings, and [OpenAI](https://openai.com/) to generate job recommendations.
+You will need to sign up and get API keys for both services.
+
 ## How to use
+
+Find a company's job listing page, and get your resume ready.
 
 1. Clone the repository
    ```bash
@@ -34,7 +39,7 @@ Enter your resume and a URL for a job listing page, and get the best matching jo
    If using `uv`:
 
    ```bash
-   uv run python main.py
+   uv run python main.py --jobs-url https://www.anthropic.com/jobs -n 5 -m 100
    ```
 
    You can get the available options by running:
@@ -56,6 +61,11 @@ Enter your resume and a URL for a job listing page, and get the best matching jo
    | `--window-size`         | `-w`  | Time window in seconds for rate limiting |
 
 ## 使い方 (日本語)
+
+FireCrawl を使って求人ページをスクレイピングし、OpenAI を使って求人を推薦してもらいます。
+コード実行には、[FireCrawl](https://firecrawl.dev/) と [OpenAI](https://openai.com/) の API キーが必要です。
+
+まずは興味のある会社の求人ページを見つけて、レジュメを準備しましょう。
 
 1. リポジトリをクローン
 
@@ -82,7 +92,7 @@ Enter your resume and a URL for a job listing page, and get the best matching jo
    `uv` を使用している場合:
 
    ```bash
-   uv run python main.py
+   uv run python main.py --jobs-url https://www.anthropic.com/jobs -n 5 -m 100
    ```
 
    利用可能なオプションを取得するには、以下のコマンドを実行します:
