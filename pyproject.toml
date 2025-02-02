@@ -1,0 +1,20 @@
+[project]
+name = "ai-jobfinder"
+version = "0.1.0"
+description = "AI-powered job finder that matches your resume with job listings"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "firecrawl-py>=1.10.2",
+    "openai>=1.60.1",
+    "pydantic>=2.10.6",
+    "python-dotenv>=1.0.1",
+    "tqdm>=4.67.1",
+    "typer>=0.15.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipython>=8.32.0",
+    "types-tqdm>=4.67.0.20241221",
+]

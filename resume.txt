@@ -1,0 +1,90 @@
+Alex Ishida Weber
+
+## Executive Summary
+
+Growth-focused technical business leader with proven track record of scaling startups through successful exits. Expertise in driving growth through data-driven strategies, having led companies to 22x+ revenue growth and IPO. Combines deep technical knowledge in ML/AI with strategic business leadership and native fluency in English and Japanese.
+
+## Professional Experience
+
+### Growth Director / Chief Operating Officer / Board Member
+
+**Rebase** | 2017 - Present | Tokyo, Japan
+_Publicly traded technology company operating Japan's leading online marketplace for on-demand rental spaces and venues_
+
+* Led organization of 30+ people across Marketing, Product, and Data Science teams, managing ¥200M+ annual budget
+* Drove exceptional business growth resulting in 22x+ revenue increase (56% CAGR) over 7 years, culminating in successful IPO
+* Architected and implemented data-driven growth strategies:
+  - Developed ML-based search ranking algorithms improving user engagement and transaction volume
+  - Created patent-pending ML pipeline for real estate image classification
+  - Optimized customer acquisition through programmatic SEO and PPC advertising
+  - Established comprehensive KPI monitoring and A/B testing framework
+* Spearheaded strategic initiatives:
+  - Introduced company-wide data-driven decision-making framework
+  - Led market analysis and competitive research to guide long-term strategy
+  - Launched new business units creating additional revenue streams
+  - Optimized unit economics through LTV/CAC optimization
+
+### Operations Logistics Manager
+
+**Uber** | 2016 - 2017 | Tokyo, Japan
+_Core member of Uber Japan launch team, pioneered UberEATS as strategic market entry solution_
+
+* Strategized and executed successful Japan market entry through UberEATS launch:
+  - Identified food delivery as optimal entry strategy through market analysis
+  - Developed regulatory-compliant business model enabling Uber's first Japan operation
+  - Secured 100+ premium restaurant partnerships within first 90 days
+  - Achieved exceptional QoQ growth throughout first year
+* Built scalable operations foundation:
+  - Created and implemented comprehensive restaurant acquisition strategy
+  - Developed data-driven prioritization framework optimizing market penetration
+  - Established end-to-end restaurant success program ensuring partner retention
+  - Built and led 30+ person sales and operations team
+  - Implemented automated support systems driving operational efficiency
+
+### Marketing & Growth Manager
+
+**FlyData** | 2013 - 2015 | Palo Alto, CA
+_VC-backed SaaS startup in data integration space_
+
+* Spearheaded transformative growth as first marketing hire:
+  - Scaled revenue 23x within 24 months
+  - Significantly reduced customer acquisition costs through funnel optimization
+  - Established successful SEO and content strategy driving substantial new revenue
+* Built comprehensive data-driven marketing infrastructure:
+  - Implemented end-to-end analytics stack (GA, Hubspot, Mixpanel)
+  - Developed automated reporting systems streamlining analytics workflows
+  - Created customer segmentation model driving significant conversion improvements
+
+### Assurance Staff
+
+**Ernst & Young** | 2012 - 2013 | San Jose, CA
+
+* Led financial audits for technology clients with $1B+ market cap
+* Managed audit teams and developed automation tools to significantly streamline review processes
+* Specialized in complex accounting areas including equity, joint ventures, and IFRS/GAAP compliance
+
+## Core Competencies
+
+* **Strategic Leadership**: Built and scaled high-performing organizations, led board meetings and strategic planning
+* **Technical Innovation**: Granted patent for ML-based image classification system
+* **Market Expansion**: Successfully launched new market generating 50M+ JPY annual GMV
+* **Growth & Analytics**: Implemented data-driven frameworks driving 20x+ revenue growth
+
+## Technical Expertise
+
+* **Machine Learning/AI**: PyTorch, Scikit-learn, Pandas, Scipy
+* **Backend Development**: Python, PostgreSQL, BigQuery
+* **Frontend Development**: TypeScript, React, Remix, Astro
+* **Infrastructure**: Docker, AWS, Cloudflare, DigitalOcean
+* **Business Systems**: Salesforce, Hubspot, Mixpanel, Google Analytics
+
+## Education
+
+**San Jose State University** | San Jose, CA
+B.S. Business Administration: Concentration in Accounting with Honors
+* Graduated Spring 2012 with overall GPA: 3.77
+
+## Languages
+
+* English (Native)
+* Japanese (Native)
